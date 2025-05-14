@@ -5,11 +5,23 @@
 > **Manual Rank: 19**  
 > **India Rank: 3**
 
+## Meet The Team
+
+> [Yashwini Bansal](https://www.linkedin.com/in/yashwini-bansal95/)
+
+> [Aman Agrawal](https://www.linkedin.com/in/aman-agrawal13/)
+
+> [Shresth Verma](https://www.linkedin.com/in/shresth-verma-3a5b58279/)
+
+> [Dushyant Raj](https://www.linkedin.com/in/dushyant-raj/)
+
+> [Aniruddha Saha](https://www.linkedin.com/in/aniruddhasaha1/)
+
 ## 🌊 About the Challenge
 
-**IMC Prosperity 3** was a 15-day algorithmic trading competition with over **12,000 teams** competing globally. Set in a fictional archipelago, each team represented an island aiming to accumulate wealth in **SeaShells**, the in-game currency. Participants were challenged to develop Python-based trading algorithms across evolving market scenarios — from simple spread products to options analogs — with new products and complexities introduced each round.
+**IMC Prosperity 3** was a 15-day algorithmic trading competition with over **12,000 teams** competing globally. Set in a fictional archipelago, each team represented an island aiming to accumulate wealth in **SeaShells**, the in-game currency. Participants were challenged to develop Python-based trading algorithms across evolving market scenarios — from simple spread products to options analogues — with new products and complexities introduced each round.
 
-Alongside algorithmic submissions, each round included a **manual trading challenge**, requiring thinking and strategic judgment. Success demanded a blend of quantitative modeling, adversarial strategy design, and adaptability to shifting market dynamics (and of course a messed up sleep schedule).
+Alongside algorithmic submissions, each round included a **manual trading challenge**, requiring thinking and strategic judgment. Success demanded a blend of quantitative modelling, adversarial strategy design, and adaptability to shifting market dynamics (and of course a messed-up sleep schedule).
 
 ## 📊 Our Results
 
